@@ -23,6 +23,6 @@ def set_ap(ssid, password):
 
 # example of setting Tello into command mode
 # only works if server is connected to Tello Wi-Fi
-set_ap('Tello_Nest', 'tellotello')
+set_ap('Buffalo-G-609F', 'a7uvhxe8biki4')
 
 
